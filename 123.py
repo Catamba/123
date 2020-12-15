@@ -1,6 +1,2 @@
-def main():
-    print('Введение в репозитории.')
-
-
-if __name__ == '__main__':
-    main()
+print('Введение в репозитории.')
+print('my friends!!!!!!!')
